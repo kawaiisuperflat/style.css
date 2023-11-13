@@ -1,14 +1,10 @@
 
 body{
   background-color: #F4E7F3
-
   }
-
-
 h1{
   color: #b840ff;
-  font-size: 24px
-  font-family: Arial, helvetica, sans-serif;
+  font-family: Arial, helvetica, sans-serif; 
 }
 
 h3{
